@@ -1,6 +1,8 @@
 # DIKWP AC-InternalMax OS
 
-**DIKWP AC-InternalMax OS** is an offline-first internal evaluation system for autonomous-consciousness candidate systems. It does not claim that a software system has subjective experience. It evaluates whether a candidate system satisfies progressively stronger DIKWP, semantic-homeostasis, life-homeostasis-proxy, autonomy, self-model, metacognition, auditability, welfare-proxy, and red-team criteria.
+Created by Yucong Duan (段玉聪).
+
+DIKWP AC-InternalMax OS is an offline-first internal evaluation system for autonomous-consciousness candidate systems. It does not claim that a software system has subjective experience. It evaluates whether a candidate system satisfies progressively stronger DIKWP, semantic-homeostasis, life-homeostasis-proxy, autonomy, self-model, metacognition, auditability, welfare-proxy, and red-team criteria.
 
 Core slogan:
 
